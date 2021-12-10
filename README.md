@@ -9,7 +9,8 @@ Technicalities:
    2. I made some additional changes to `_config.yml` to edit the blog title, `/_layouts/default.html` to only show my blog, and `/_layouts/post.html` in order to make the visual of the blog neat.
    3. I added some images to `/_public/images`.
    4. No other changes are made aside from these.
-2. The content of the blog is in `/_posts/2021-12-09-s898-blog.md`. The file `index.html` directly renders this markdown file. The blog is hosted [here]((https://jsirait.github.io/s898-blog/)).
+2. The content of the blog is in `/_posts/2021-12-09-s898-blog.md`. The file `index.html` directly renders this markdown file. The blog is hosted [here](https://jsirait.github.io/s898-blog/).
+3. Github repository: [https://github.com/jsirait/s898-blog](https://github.com/jsirait/s898-blog)
  
  
 # ICLR 2022 blog track
